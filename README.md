@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Dilyar
+![](https://komarev.com/ghpvc/?username=Dilyar0)
 
 ## I'm a Software engineer,and Full-Stack developer
 
@@ -29,7 +30,5 @@
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 
-<br />
-![](https://komarev.com/ghpvc/?username=Dilyar0)
 
 
