@@ -11,7 +11,7 @@
 ### Connected with me:
 
 <a href="https://www.linkedin.com/in/dilyar-temirbekov-91a49b22a/"><img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://t.me/t_dilyar03s"><img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
+<a href="https://t.me/tdt4e"><img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 
 
 ### Languages and Tools:
