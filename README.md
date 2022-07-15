@@ -65,15 +65,15 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="20"></h2>
 
 <h2 align="center">
-    <!-- <a href="https://www.linkedin.com/in/dilyar-temirbekov-91a49b22a/"><img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    <a href="https://t.me/tdt4e"><img align="center" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a> -->
+    <a href="https://www.linkedin.com/in/dilyar-temirbekov-91a49b22a/"><img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://t.me/tdt4e"><img align="center" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
     <a href="mailto: diliartemirbekov01@gmail.com">
-    <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
+    <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diliartemirbekov01@gmail.com"/>
     </a>
     <a href="https://www.linkedin.com/in/dilyar-temirbekov-91a49b22a/">
-    <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
-    </a href="https://t.me/tdt4e">
-    <img align="center" src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com">
+    <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilyar-temirbekov-91a49b22a/"/>
+    <!-- </a href="https://t.me/tdt4e">
+    <img align="center" src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"> -->
     <a>
 
     </a>
