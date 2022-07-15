@@ -1,19 +1,21 @@
 
 <!--  https://Dilyar0.github.io/portfolio/  -->
-<p align="center">
+<!-- <p align="center">
  
-</p align="center">
-<img src="./images/github_profil.png" />
+</p align="center"> -->
+<img align="center" src="./images/github_profil.png" />
 
-
+#### Briefly about me:
 <p align="center">
+
 - ❤️‍🔥 I like to write code
 - 🤓 love to learn something new
 - ⌚️ In my free times I like to read books
 - 🚗🏎🏍 Motor-car enthusiast
 </p>  
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center"> Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50">
+</h2>
 
 <p align="center">
  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -32,13 +34,14 @@
 </p>
 
 
-
+<br>
+<!-- 
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
   <img src="https://github.com/Dilyar0/Dilyar0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p> -->
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
@@ -63,9 +66,9 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-
-
+    <a href="https://www.linkedin.com/in/dilyar-temirbekov-91a49b22a/"><img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://t.me/tdt4e"><img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 </p>
 
 
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
+<p align="center">never give up, great things take time</p>
